@@ -1,13 +1,13 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=993399&center=true&width=600&height=40&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a)++ao+meu+perfil+%F0%9F%91%8B%F0%9F%98%84;Sou+estudante+de+Tecnologia++%F0%9F%9B%B8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=993399&center=true&width=600&height=40&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a)++ao+meu+perfil+%F0%9F%91%8B%F0%9F%98%84;" alt="Typing SVG" /></a>
 </div>
 
 ___
   
 <div align="center">
   <a href="https://github.com/jennyferbarb/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennyferbarb&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyferbarb&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jennyferbarb&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennyferbarb&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
 
 </div>
 
